@@ -1,1 +1,1 @@
-# gitDemo
+# understanding git branches and how to swithch branches and other stuffs.
